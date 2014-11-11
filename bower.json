@@ -19,6 +19,6 @@
   ],
   "license": "LGPL v2.1+, MIT",
   "ignore": [
-    "./!(build/ffmpeg*.js)",
+    "./!(build/ffmpeg*.js)"
   ]
 }
