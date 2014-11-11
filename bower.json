@@ -1,0 +1,24 @@
+{
+  "name": "ffmpeg.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gion/videoconverter.js",
+  "authors": [
+    "Bogdan Gradinariu <bogdan.graidnariu@gmail.com>"
+  ],
+  "description": "a javascript ffmpeg port",
+  "main": "build/ffmpeg.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ffmpeg",
+    "convert",
+    "compress",
+    "audio",
+    "video"
+  ],
+  "license": "LGPL v2.1+, MIT",
+  "ignore": [
+    "./!(build/ffmpeg*.js)",
+  ]
+}
