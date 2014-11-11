@@ -1,12 +1,12 @@
 {
   "name": "ffmpeg.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/gion/videoconverter.js",
   "authors": [
     "Bogdan Gradinariu <bogdan.graidnariu@gmail.com>"
   ],
   "description": "a javascript ffmpeg port",
-  "main": "build/ffmpeg.js",
+  "main": "build/ffmpeg-module.js",
   "moduleType": [
     "globals"
   ],
