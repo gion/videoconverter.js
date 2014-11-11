@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/gion/videoconverter.js",
   "authors": [
-    "Bogdan Gradinariu <bogdan.graidnariu@gmail.com>"
+    "Bogdan Gradinariu <bogdan.gradinariu@gmail.com>"
   ],
   "description": "a javascript ffmpeg port",
   "main": "build/ffmpeg.js",
